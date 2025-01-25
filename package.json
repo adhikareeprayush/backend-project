@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/adhikareeprayush/backend-project#readme",
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.9",
+    "prettier": "^3.4.2"
   }
 }
