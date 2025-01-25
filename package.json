@@ -1,0 +1,23 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhikareeprayush/backend-project.git"
+  },
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "author": "prayush adhikari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhikareeprayush/backend-project/issues"
+  },
+  "homepage": "https://github.com/adhikareeprayush/backend-project#readme"
+}
